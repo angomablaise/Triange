@@ -9,3 +9,4 @@ print("Hello")
 x=int(input("donner un nombre : "))
 x=x+5
 print(x)
+print("Au revoir!!!")
